@@ -12,7 +12,7 @@ from pygame.locals import *
 
 #CONSTANTS
 background_color = (0,0,0)
-(width, height) = (400, 400)
+(width, height) = (1000, 1000)
 elasticity = 0.9852
 drag = 0.9999
 gravitationalconstant=0.01
